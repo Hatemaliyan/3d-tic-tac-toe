@@ -29,8 +29,8 @@ win_Display(): This function displays a message when a player wins the game.
 winners_B(cp, winnerdic): This function updates the dictionary of winners with the current winner.
 main(): This function runs the game.
 
-#Dependencies
+# Dependencies
 This program requires the random and time modules.
 
-#Conclusion
+# Conclusion
 This program is a fun and challenging game that can be played by two players or one player against the computer. The program includes several functions that make the game easy to play and understand.
